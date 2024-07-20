@@ -1,0 +1,5 @@
+print("my name is farooq shah")
+print("i   am  from abbottabad")
+print("i am a university student")
+print("what are  we  doing  doesnt  matter")
+print("i  think  we  all  are fine")
